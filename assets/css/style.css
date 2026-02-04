@@ -51,9 +51,10 @@ header {
     left: 0;
     width: 100%;
     height: var(--nav-height);
-    background: rgba(5, 5, 7, 0.8);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
+    background: #000;
+    /* Solid black to match logo background */
+    /* backdrop-filter: blur(10px); */
+    /* -webkit-backdrop-filter: blur(10px); */
     z-index: 1000;
     border-bottom: 1px solid var(--glass-border);
 }
