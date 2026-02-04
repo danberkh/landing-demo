@@ -2,16 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap');
 
 :root {
-    --bg-color: #ffffff;
-    --text-color: #333333;
-    --accent-color: #0052cc;
-    /* Professional Blue */
+    --bg-color: #050507;
+    --text-color: #e0e0e0;
+    --accent-color: #6c5ce7;
     --secondary-accent: #00cec9;
-    --glass-bg: rgba(255, 255, 255, 0.9);
-    --glass-border: rgba(0, 0, 0, 0.1);
-    --card-hover: rgba(0, 82, 204, 0.05);
-    /* Light blue tint on hover */
-    --gradient: linear-gradient(135deg, #0052cc, #00cec9);
+    --glass-bg: rgba(255, 255, 255, 0.05);
+    --glass-border: rgba(255, 255, 255, 0.1);
+    --card-hover: rgba(255, 255, 255, 0.08);
+    --gradient: linear-gradient(135deg, #6c5ce7, #00cec9);
     --nav-height: 80px;
 }
 
@@ -53,7 +51,7 @@ header {
     left: 0;
     width: 100%;
     height: var(--nav-height);
-    background: rgba(255, 255, 255, 0.95);
+    background: rgba(5, 5, 7, 0.8);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     z-index: 1000;
