@@ -1,3 +1,3 @@
-# Portafolio Dan Berkh
+# Proyecto sitio landing page de Servicios IT.
 
-Este es un proyecto simple de Portafolio de desarrolo web y diseño grafico.
+Landing page para un sitio web de servicios IT - Lefortech.
